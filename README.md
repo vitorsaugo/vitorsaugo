@@ -1,6 +1,6 @@
 # Olá, eu sou o Vitor 👋
 
-🎓 Estudante de Ciência da Computação na UNOESC  
+🎓 Estudante de Sistemas de Informação na UNOESC  
 💻 Trabalho como Suporte Técnico na SuperIp Telecom  
 🚀 Apaixonado por tecnologia e sempre buscando aprender coisas novas.
 
@@ -10,7 +10,7 @@
 
 Tenho interesse na área de tecnologia e estou constantemente buscando aprimorar meus conhecimentos em computação.
 
-Atualmente curso Ciência da Computação na UNOESC, onde desenvolvo habilidades em programação, lógica, desenvolvimento de sistemas e resolução de problemas.
+Atualmente curso Sistemas de Informação na UNOESC, onde desenvolvo habilidades em programação, lógica, desenvolvimento de sistemas e resolução de problemas.
 
 Meu objetivo é me tornar um profissional completo na área de tecnologia, criando soluções eficientes, aprendendo novas ferramentas e evoluindo cada vez mais como programador.
 
