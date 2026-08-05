@@ -1,20 +1,8 @@
-# Olá, eu sou o Vitor 👋
+# Olá, eu sou [Seu Nome] 👋
 
-🎓 Estudante de Sistemas de Informação na UNOESC  
-💻 Trabalho como Suporte Técnico na SuperIp Telecom  
-🚀 Apaixonado por tecnologia e sempre buscando aprender coisas novas.
+🎓 Estudante de Ciência da Computação na UNOESC | 💻 Suporte Técnico na SuperIp Telecom | 🚀 Apaixonado por tecnologia e programação.
 
----
-
-## 👨‍💻 Sobre mim
-
-Tenho interesse na área de tecnologia e estou constantemente buscando aprimorar meus conhecimentos em computação.
-
-Atualmente curso Sistemas de Informação na UNOESC, onde desenvolvo habilidades em programação, lógica, desenvolvimento de sistemas e resolução de problemas.
-
-Meu objetivo é me tornar um profissional completo na área de tecnologia, criando soluções eficientes, aprendendo novas ferramentas e evoluindo cada vez mais como programador.
-
-Neste perfil você encontrará meus projetos, estudos, exercícios e experimentos desenvolvidos durante minha jornada de aprendizado.
+Tenho interesse na área de computação e busco constantemente aprimorar meus conhecimentos em programação, desenvolvimento de sistemas e novas tecnologias. Neste perfil compartilho meus projetos, estudos e experiências durante minha jornada de aprendizado, buscando evoluir como programador e profissional da área.
 
 ---
 
@@ -47,9 +35,15 @@ Neste perfil você encontrará meus projetos, estudos, exercícios e experimento
 
 ---
 
-## 📚 Minha Jornada
+## 📊 GitHub Stats
 
-Durante minha formação acadêmica, venho desenvolvendo conhecimentos através de projetos, atividades e estudos relacionados à programação e tecnologia.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-Cada projeto representa uma etapa da minha evolução, permitindo colocar em prática conceitos aprendidos e desenvolver minha capacidade de criar soluções.
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+---
+
+📫 GitHub: https://github.com/SEU_USUARIO
+
+⭐ Obrigado pela visita!
 
