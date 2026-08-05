@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=Olá,%20sou%20vitorsaugo&fontSize=40&fontColor=ffffff"/>
+
 # Olá, me chamo Vitor 👋
 
 Atualmente atuo como Suporte Técnico na SuperIp Telecom e sou estudante de Ciência da Computação na UNOESC. Tenho interesse pela área de tecnologia e busco constantemente aprender e desenvolver novas habilidades relacionadas à programação e computação.
@@ -40,7 +42,6 @@ Este perfil é um espaço onde compartilho meus projetos, estudos e experiência
 ## 📊 GitHub Stats
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=Olá,%20sou%20vitorsaugo&fontSize=40&fontColor=ffffff"/>
 
 ---
 
