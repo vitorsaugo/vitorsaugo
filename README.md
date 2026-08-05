@@ -35,6 +35,7 @@ Este perfil é um espaço onde compartilho meus projetos, estudos e experiência
   </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer"/>
 
 ---
 
