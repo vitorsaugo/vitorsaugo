@@ -35,6 +35,9 @@ Este perfil é um espaço onde compartilho meus projetos, estudos e experiência
   </tr>
 </table>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"
+  alt="Top Languages"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer"/>
 
 ---
