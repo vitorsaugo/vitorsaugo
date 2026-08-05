@@ -1,8 +1,12 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, me chamo Vitor 👋
 
-🎓 Estudante de Ciência da Computação na UNOESC | 💻 Suporte Técnico na SuperIp Telecom | 🚀 Apaixonado por tecnologia e programação.
+🎓 Estudante de Ciência da Computação na UNOESC | 💻 Suporte Técnico na SuperIp Telecom | 🚀 Apaixonado por tecnologia, programação e inovação.
 
-Tenho interesse na área de computação e busco constantemente aprimorar meus conhecimentos em programação, desenvolvimento de sistemas e novas tecnologias. Neste perfil compartilho meus projetos, estudos e experiências durante minha jornada de aprendizado, buscando evoluir como programador e profissional da área.
+Sou estudante de Ciência da Computação e atualmente atuo como Suporte Técnico na SuperIp Telecom, onde desenvolvo conhecimentos relacionados à tecnologia, infraestrutura e resolução de problemas. Tenho grande interesse pela área de computação e estou sempre buscando aprimorar minhas habilidades em programação, desenvolvimento de sistemas e novas tecnologias.
+
+Meu objetivo é evoluir constantemente como profissional da área, adquirindo experiência, criando soluções eficientes e desenvolvendo projetos que contribuam para meu crescimento acadêmico e profissional.
+
+Neste perfil compartilho minha jornada de aprendizado, incluindo projetos, estudos, exercícios e experimentos desenvolvidos ao longo da minha formação.
 
 ---
 
@@ -43,7 +47,6 @@ Tenho interesse na área de computação e busco constantemente aprimorar meus c
 
 ---
 
-📫 GitHub: https://github.com/SEU_USUARIO
+📫 GitHub: https://github.com/vitorsaugo
 
 ⭐ Obrigado pela visita!
-
