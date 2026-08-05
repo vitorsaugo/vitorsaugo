@@ -41,9 +41,9 @@ Neste perfil compartilho minha jornada de aprendizado, incluindo projetos, estud
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitorsaugo&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitorsaugo&layout=compact&theme=tokyonight"/>
 
 ---
 
