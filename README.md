@@ -53,20 +53,3 @@ Durante minha formação acadêmica, venho desenvolvendo conhecimentos através 
 
 Cada projeto representa uma etapa da minha evolução, permitindo colocar em prática conceitos aprendidos e desenvolver minha capacidade de criar soluções.
 
----
-
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
----
-
-## 📫 Contato
-
-📌 GitHub: https://github.com/vitorsaugo
-
----
-
-⭐ Obrigado pela visita!
