@@ -1,4 +1,4 @@
-# Olá, eu sou Vitor Augusto 👋
+# Olá, me chamo Vitor 👋
 
 🎓 Estudante da UNOESC  
 💻 Interessado em programação e tecnologia  
