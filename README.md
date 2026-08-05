@@ -1,51 +1,31 @@
 # Olá, me chamo Vitor 👋
 
-🎓 Estudante da UNOESC  
-💻 Interessado em programação e tecnologia  
-🚀 Em constante aprendizado e evolução na área de desenvolvimento
+💻 Trabalho como Suporte Técnico na SuperIp Telecom.  
+🎓 Estudante de Ciência da Computação na UNOESC.  
+🚀 Apaixonado por tecnologia e sempre buscando aprender coisas novas.
+
+Meu objetivo é evoluir na área da computação, aprimorar minhas habilidades de programação e desenvolver soluções eficientes através da tecnologia.
+
+Aqui no GitHub você encontrará meus projetos, estudos e experimentos desenvolvidos durante minha jornada de aprendizado.
 
 ---
 
-## 📚 Sobre mim
+## 🛠️ Tecnologias
 
-Sou estudante da UNOESC e utilizo este espaço para compartilhar minha jornada de aprendizado, projetos, exercícios e experiências desenvolvidas durante minha formação acadêmica.
-
-Meu objetivo é evoluir cada vez mais na área de tecnologia, aprimorando meus conhecimentos em programação, desenvolvimento de sistemas e resolução de problemas.
-
----
-
-## 🛠️ Tecnologias e Ferramentas- 💻 Python e C
-- 🌐 HTML e CSS
-- 🗄️ Banco de Dados
-- 🔧 Git e GitHub
-- 🧠 Lógica de Programação
-
-- 💻 Python e C
-- 🌐 HTML e CSS
-- 🗄️ Banco de Dados
-- 🔧 Git e GitHub
-- 🧠 Lógica de Programação
-
-*(adicione outras tecnologias conforme aprender)*
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+</div>
 
 ---
 
-## 📂 Projetos
+## 📊 GitHub Stats
 
-Aqui você encontrará projetos e atividades desenvolvidas durante minha jornada acadêmica, incluindo exercícios de programação, trabalhos das disciplinas e aplicações práticas.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
 
----
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Contato
-
-- GitHub: https://github.com/vitorsaugo
-
----
-
-⭐ Obrigado pela visita!
+📌 Confira minha jornada e projetos aqui no GitHub.
