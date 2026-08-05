@@ -1,12 +1,10 @@
 # Olá, me chamo Vitor 👋
 
-🎓 Estudante de Ciência da Computação na UNOESC | 💻 Suporte Técnico na SuperIp Telecom | 🚀 Apaixonado por tecnologia, programação e inovação.
+Atualmente atuo como Suporte Técnico na SuperIp Telecom e sou estudante de Ciência da Computação na UNOESC. Tenho interesse pela área de tecnologia e busco constantemente aprender e desenvolver novas habilidades relacionadas à programação e computação.
 
-Sou estudante de Ciência da Computação e atualmente atuo como Suporte Técnico na SuperIp Telecom, onde desenvolvo conhecimentos relacionados à tecnologia, infraestrutura e resolução de problemas. Tenho grande interesse pela área de computação e estou sempre buscando aprimorar minhas habilidades em programação, desenvolvimento de sistemas e novas tecnologias.
+Estou em busca de aprimorar meus conhecimentos, evoluir como desenvolvedor e construir uma base sólida para atuar na área de tecnologia, criando soluções práticas e eficientes.
 
-Meu objetivo é evoluir constantemente como profissional da área, adquirindo experiência, criando soluções eficientes e desenvolvendo projetos que contribuam para meu crescimento acadêmico e profissional.
-
-Neste perfil compartilho minha jornada de aprendizado, incluindo projetos, estudos, exercícios e experimentos desenvolvidos ao longo da minha formação.
+Este perfil é um espaço onde compartilho meus projetos, estudos e experiências, registrando minha evolução durante minha jornada acadêmica e profissional.
 
 ---
 
@@ -41,10 +39,11 @@ Neste perfil compartilho minha jornada de aprendizado, incluindo projetos, estud
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitorsaugo&show_icons=true&theme=tokyonight"/>
+## 📊 Minha Jornada no GitHub
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitorsaugo&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorsaugo&theme=tokyo-night&hide_border=true"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsaugo&layout=compact&theme=tokyonight&hide_border=true"/>
 ---
 
 📫 GitHub: https://github.com/vitorsaugo
