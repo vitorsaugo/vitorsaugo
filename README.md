@@ -44,7 +44,7 @@ Aqui você encontrará projetos e atividades desenvolvidas durante minha jornada
 
 ## 📫 Contato
 
-- GitHub: https://github.com/SEU_USUARIO
+- GitHub: https://github.com/vitorsaugo
 
 ---
 
