@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=SEU%20NOME&fontSize=55&fontColor=00FFFF&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=220&section=header&text=SEU%20NOME&fontSize=50&fontColor=00ff99&animation=fadeIn"/>
+
 Atualmente atuo como Suporte Técnico na SuperIp Telecom e sou estudante de Ciência da Computação na UNOESC. Tenho interesse pela área de tecnologia e busco constantemente aprender e desenvolver novas habilidades relacionadas à programação e computação.
 
 Estou em busca de aprimorar meus conhecimentos, evoluir como desenvolvedor e construir uma base sólida para atuar na área de tecnologia, criando soluções práticas e eficientes.
