@@ -40,7 +40,7 @@ Este perfil é um espaço onde compartilho meus projetos, estudos e experiência
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorsaugo&theme=tokyo-night&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ---
 
