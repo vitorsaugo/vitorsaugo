@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Vitor Augusto 👋
 
 🎓 Estudante da UNOESC  
 💻 Interessado em programação e tecnologia  
@@ -14,9 +14,13 @@ Meu objetivo é evoluir cada vez mais na área de tecnologia, aprimorando meus c
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas- 💻 Python e C
+- 🌐 HTML e CSS
+- 🗄️ Banco de Dados
+- 🔧 Git e GitHub
+- 🧠 Lógica de Programação
 
-- 💻 Python
+- 💻 Python e C
 - 🌐 HTML e CSS
 - 🗄️ Banco de Dados
 - 🔧 Git e GitHub
