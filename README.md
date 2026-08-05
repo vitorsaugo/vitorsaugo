@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=Olá,%20me%20chamo%20Vitor&fontSize=40&fontColor=ffffff"/>
 
-Atualmente atuo como Suporte Técnico na SuperIp Telecom e sou estudante de Ciência da Computação na UNOESC. Tenho interesse pela área de tecnologia e busco constantemente aprender e desenvolver novas habilidades relacionadas à programação e computação.
+Atualmente atuo como Suporte Técnico na SuperIp Telecom e sou estudante de Sistemas de Informação. Tenho interesse pela área de tecnologia e busco constantemente aprender e desenvolver novas habilidades relacionadas à programação e computação.
 
 Estou em busca de aprimorar meus conhecimentos, evoluir como desenvolvedor e construir uma base sólida para atuar na área de tecnologia, criando soluções práticas e eficientes.
 
@@ -11,17 +11,16 @@ Este perfil é um espaço onde compartilho meus projetos, estudos e experiência
 
 ## 🚀 Tecnologias e Ferramentas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-&nbsp;&nbsp;
-<img alt="TCP/IP" title="TCP/IP Networking" width="50" src="https://i.imgur.com/s5yqlIt.png"/>
+<table>
+<tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></td>
+<td><img src="https://i.imgur.com/s5yqlIt.png" width="50"/></td>
+</tr>
+</table>
 
 ---
 
